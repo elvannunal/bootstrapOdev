@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Square+Peg&display=swap');
+body {
+    background: linear-gradient(90deg,pink,wheat,#8000801c,#ffa50094);
+}
+nav{
+    background: linear-gradient(90deg,pink,wheat,#8000801c,#ffa50094);
+}
+#h1{
+    font-family: 'Square Peg';
+    font-size: 5pc;
+    background: linear-gradient(287deg,pink,wheat,#800080d9,#ffa50094);
+}
+li{
+    list-style-type: none;
+}
+#about{
+    text-decoration: none;
+}
+#aboutCaption{
+    font-family: 'Square Peg';
+    font-size: 8pc;
+}
+#h2{
+    font-family: 'Square Peg';
+    font-size:51px;
+}
+.product{
+    font-family: 'Square Peg';
+    font-size:6pc;
+}
